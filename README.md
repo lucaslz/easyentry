@@ -1,4 +1,5 @@
-# Slim Framework 3 Skeleton Application
+# Trabalho de Engenharia de Software II - Site de Venda de Ingresos EasyEntry
+# Framework criar a partir do Slim/slim-skeleton para
 
 Use this skeleton application to quickly setup and start working on a new Slim Framework 3 application. This application uses the latest Slim 3 with the PHP-View template renderer. It also uses the Monolog logger.
 
