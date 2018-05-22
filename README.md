@@ -27,4 +27,4 @@ $ phpunit
 - [Lucas Lima](https://github.com/lucaslz)
 
 ## License
-The Slim Framework is licensed under the MIT license. See [License File](LICENSE.md) File for more information.
+The Slim Framework is licensed under the MIT license. See [License File](https://github.com/slimphp/Slim/blob/3.x/LICENSE.md) File for more information.
