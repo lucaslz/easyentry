@@ -1,7 +1,13 @@
 <?php
-// Condifucação do DIC
 
+// Condifucação do DIC
 $container = $app->getContainer();
+
+//Redenrizacao de views
+$container['renderer'] = function ($c) {
+    $settings = $c->get('settings')['renderer'];
+    return new Slim\Views\PhpRenderer($settings['template_path']);
+};
 
 //Dependencias do banco de dados
 $container['db'] = function($c) {

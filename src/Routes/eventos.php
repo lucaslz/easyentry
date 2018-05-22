@@ -2,6 +2,7 @@
 
 use Slim\Http\Request;
 use Slim\Http\Response;
+use Core\SApp;
 
 // Rotas da aplicacao
-\Core\SApp::getApp()->get('/[{name}]', 'App\Controllers\ControlarEventos:index');
+SApp::getApp()->get('/','App\Controllers\ControlarEventos:index');
