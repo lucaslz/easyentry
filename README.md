@@ -5,7 +5,7 @@
 ## Sobre o Framework Lua
 
 <p align="justify">
-Lucas é um micro framework de aplicação web, que foi feito a partir do Slim Framework, ele é um framework gratuito e totalmente licenciado para ser distribuido modificado e até mesmo vendido, esta micro framework pode crescer e abrigar até aplicações complexas, sendo indicado até para o desenvolvimento de API's já que le irá totalmente pronto para realizar essa tarefa, a sintaxe dele é bem simples e elegante não tendo a necessidade nem de extender controllers.
+Lua é um micro framework de aplicação web, que foi feito a partir do Slim Framework, ele é um framework gratuito e totalmente licenciado para ser distribuido modificado e até mesmo vendido, esta micro framework pode crescer e abrigar até aplicações complexas, sendo indicado até para o desenvolvimento de API's já que le irá totalmente pronto para realizar essa tarefa, a sintaxe dele é bem simples e elegante não tendo a necessidade nem de extender controllers.
 </p>
 
 ## Documentação
