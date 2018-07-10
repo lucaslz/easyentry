@@ -11,7 +11,7 @@ Lua é um micro framework de aplicação web, que foi feito a partir do Slim Fra
 ## Documentação
 
 <p align="justify">
-Em poucos minutos qualquer pessoa que tenha um bom conhecimento em Orientação a Objetos e frameworks MVC vai entender como o framework funciona bem rápido, por enquanto ainda não temos uma documentação pronta, mas a própria documentação do Slim não funciona.
+Em poucos minutos qualquer pessoa que tenha um bom conhecimento em Orientação a Objetos e frameworks MVC vai entender como o framework funciona bem rápido, por enquanto ainda não temos uma documentação pronta, mas a própria documentação do Slim funciona.
 </p>
 
 ## Testes
