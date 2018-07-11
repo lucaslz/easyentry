@@ -25,6 +25,10 @@ $ phpunit
 ## Creditos
 
 - [Lucas Lima](https://github.com/lucaslz)
+- Samuell Magalhães
+- Leonardo Barcelos Nardy
+- Isabela Cristina Oliveira
+-  Ângelo Thasmo Bitencourt 
 
 ## License
 The Slim Framework is licensed under the MIT license. See [License File](https://github.com/slimphp/Slim/blob/3.x/LICENSE.md) File for more information.
